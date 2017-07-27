@@ -1,0 +1,12 @@
+{
+  "name": "yoda-bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Bret McGowen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "actions-on-google": "^1.1.1",
+    "node-fetch": "^1.7.0"
+  }
+}
+

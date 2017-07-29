@@ -1,7 +1,9 @@
 # Google Home workshop
 
 ## Slides
-Slides will be posted soon.
+[![Presentation slides](docs/img/slides-cover.png)](https://bretmcg.com/talks/google-home)
+
+[Slides](https://bretmcg.com/talks/google-home)
 
 ## Instructions
 ### Steps

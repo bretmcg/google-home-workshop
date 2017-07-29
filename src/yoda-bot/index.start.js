@@ -24,6 +24,6 @@ exports.yodabot = function(request, response) {
   var actionMap = new Map();
   
   // TODO: map intents.
-  actionMap.set("", subtractIntent);
+  actionMap.set("", );
   app.handleRequest(actionMap);
 }

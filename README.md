@@ -4,6 +4,8 @@
 [![Presentation slides](docs/img/slides-cover.png)](https://bretmcg.com/talks/google-home)
 
 [Slides](https://bretmcg.com/talks/google-home)
+|
+[Video](http://www.nodesummit.com/prior-video/node-summit-2017-google-sponsor-workshop-build-a-chatbot-for-google-assistant-google-home-and-more-bret-mcgowen/)
 
 ## Instructions
 ### Steps

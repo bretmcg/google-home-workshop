@@ -6,7 +6,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "actions-on-google": "^1.1.1",
-    "node-fetch": "^1.7.0"
+    "node-fetch": "^2.6.7"
   }
 }
-

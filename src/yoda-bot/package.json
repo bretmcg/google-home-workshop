@@ -5,7 +5,7 @@
   "author": "Bret McGowen",
   "license": "Apache-2.0",
   "dependencies": {
-    "actions-on-google": "^1.11.0",
+    "actions-on-google": "^3.0.0",
     "node-fetch": "^2.6.7"
   }
 }
